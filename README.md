@@ -51,5 +51,7 @@
 ![Mumu](image/25.png)
 ## 26. 
 ![Mumu](image/26.png)
+## 27. 
+![Mumu](image/27.png)
 
 
